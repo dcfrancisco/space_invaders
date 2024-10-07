@@ -32,7 +32,7 @@ class MyHomePage extends StatelessWidget {
       body: Center(
         child: Text(
           'Hello, World!',
-          style: Theme.of(context).textTheme.headline4,
+          style: Theme.of(context).textTheme.headlineMedium,
         ),
       ),
     );
