@@ -49,12 +49,14 @@ flutter:
     - assets/images/base18.png
     - assets/images/base19.png
     - assets/images/bullet.png
+    - assets/images/enemy.png
     - assets/images/explosion.png
     - assets/images/green_ship.png
     - assets/images/ship_destroyed.png
     - assets/images/ship_fire.png
     - assets/images/windows_bullet.png
-    - assets/audio
+    - assets/images/spaceinvaderspritesheet.png
+    - assets/images/background.png
 
   fonts:
     - family: PressStart2P
